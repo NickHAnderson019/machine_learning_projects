@@ -1,3 +1,7 @@
-# machine_learning_projects
+# OpenAI Gym
 
-This repo is a serious work in progress. I am hoping to fill it up with some machine learning projects that I do in my own time. 
+An introduction to reinforcement learning using OpenAI Gym:
+
+https://gym.openai.com/
+
+This toolkit provides environments on which reinforcement learning can be applied. 
