@@ -1,0 +1,9 @@
+Using Windows CMD
+
+virtualenv --system-site-packages -p python ./ML
+C:\ML\Scripts\activate
+
+pip install --upgrade pip
+pip install --upgrade tensorflow
+pip install gym
+pip install jupyter
