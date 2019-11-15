@@ -7,3 +7,15 @@ pip install --upgrade pip
 pip install --upgrade tensorflow
 pip install gym
 pip install jupyter
+
+
+To use biped_walker.py
+
+Using Anaconda:
+
+> conda create -n py27 python=2.7
+> conda activate py27
+> conda install -c https://conda.anaconda.org/kne pybox2d
+> conda install pip
+> conda install numpy
+> pip install gym
